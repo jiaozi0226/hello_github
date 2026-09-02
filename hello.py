@@ -1,1 +1,4 @@
-print("Hello GitHub!")https://github.com/jiaozi0226/hello_github/tree/main
+name = input("What's your name? ")
+
+print(f"Hello, {name}!")
+print("Welcome to my first GitHub project.")
